@@ -1,10 +1,11 @@
 # VueJS Template
 
-Laravel application with a Vue 3 and Inertia frontend. The project provides a reusable Laravel starter structure with Fortify authentication, Tailwind CSS, and Vite-based frontend tooling.
+Laravel 13 application with a Vue 3 and Inertia frontend. The project provides a reusable Laravel starter structure with Fortify authentication, Tailwind CSS, and Vite-based frontend tooling.
 
 ## Requirements
 
 - PHP 8.3+
+- Laravel 13
 - Composer
 - Node.js and npm
 
